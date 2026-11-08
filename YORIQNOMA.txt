@@ -1,0 +1,28 @@
+MUHAMMADSOLIH.AI — САЙТНИ ЮКЛАШ ЙЎРИҚНОМАСИ
+
+1. ZIP'НИ ОЧИШ
+   Компьютерда ZIP файлни ўнг тугма билан босинг → "Извлечь всё" / "Extract all".
+   "muhammadsolih-ai-seo" папкаси чиқади. Ичида index.html, ru, css, images ва бошқа файллар бор.
+
+2. РАСМЛАР
+   Ҳамма расмлар "images" папкасида. Расмни алмаштирмоқчи бўлсангиз,
+   янги расмни ЎША НОМ билан шу папкага қўйинг (эскисининг устидан).
+   - shavkatov-muhammadsolih-ai-mutaxassis.jpg — сизнинг фотойингиз (квадрат)
+   - ai-video-natija-....jpg — натижалар скриншотлари
+   - og-image.jpg — Telegram/WhatsApp'да линк юборганда чиқадиган расм (1200x630)
+
+3. NETLIFY'ГА ЮКЛАШ (эски сайт ўрнига)
+   1) app.netlify.com га киринг → magical-tiramisu-feb652 сайтини очинг.
+   2) "Deploys" бўлимига ўтинг.
+   3) "muhammadsolih-ai-seo" папкасини (ZIP эмас, очилган папкани) пастдаги
+      "Drag and drop your site output folder here" майдонига судраб ташланг.
+   4) 1 дақиқадан кейин сайт янгиланади.
+
+4. GOOGLE SEARCH CONSOLE
+   Папка ичида google4610137d192ba694.html файли бор — уни ЎЧИРМАНГ.
+   Сайт юклангач, Search Console'да "ПОДТВЕРДИТЬ" тугмасини босинг.
+   Кейин "Файлы Sitemap" бўлимига кириб, sitemap.xml ни қўшинг.
+
+5. МУҲИМ
+   Сайт манзили ҳамма жойда https://magical-tiramisu-feb652.netlify.app деб ёзилган.
+   Агар Netlify'да сайт номини ўзгартирсангиз, бу манзилни ҳам ўзгартириш керак.
